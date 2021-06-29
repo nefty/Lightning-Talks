@@ -1,1 +1,1 @@
-# Lightning-Talks
+# Lightning Talks
